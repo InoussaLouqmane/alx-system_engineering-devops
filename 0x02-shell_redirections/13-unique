@@ -1,2 +1,2 @@
 #!/bin/bash
-fmt -1 $1 | sort -u
+sort -u $1
