@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$((128 + ($TRUEKNOWLEGDE)))\n"
+echo $(expr 128 + $TRUEKNOWLEGDE)
